@@ -1,8 +1,21 @@
-- 👋 Hi, I’m @VedGabani 
-- 👀 I’m interested in C_LANGUAGE
-- 🌱 I’m currently learning C_LANGUAGE
+# C_Language
 
-<!---
-VedGabani/VedGabani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This is best day for me in C_Language
+## 🚀 About Me
+I'm a full stack developer...
+
+# Hi, I'm Katherin Ved_Gabani3443! 👋
+
+## 🔗 Links
+[![GitHub]](https://github.com/)
+[![Profile]](https://github.com/VedGabani)
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on C_Language
+🧠 I'm currently learningC_Language
+
+
+💬 Ask me about anything
+
+## 🛠 Skills
+C_Language
