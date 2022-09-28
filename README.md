@@ -4,7 +4,7 @@ This is best day for me in C_Language
 ## 🚀 About Me
 I'm a full stack developer...
 
-# Hi, I'm Katherin Ved_Gabani3443! 👋
+# Hi, I'm Ved_Gabani3443! 👋
 
 ## 🔗 Links
 [![GitHub]](https://github.com/)
