@@ -11,7 +11,6 @@ I'm a full stack developer...
 [![Profile]](https://github.com/VedGabani)
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on C_Language
 🧠 I'm currently learningC_Language
 
 
